@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>API FrameWork\DesignPattern\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNode.h">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SecondScene.h">
+      <Filter>API FrameWork\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>API FrameWork\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>API FrameWork\MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>API FrameWork\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomFunction.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMarcroFuntion.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinAPI.cpp" />
+    <ClCompile Include="GameNode.cpp">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="SecondScene.cpp">
+      <Filter>API FrameWork\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>API FrameWork\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>API FrameWork\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>API FrameWork\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API FrameWork">
+      <UniqueIdentifier>{eee96c2d-3666-4dd6-9fd2-d18295c78826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern">
+      <UniqueIdentifier>{7333001a-1fa9-4649-a8fe-a2375d575a2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern\Singleton">
+      <UniqueIdentifier>{ddf08ba8-b6e8-48ee-8772-94b7c4abc983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\GameNode">
+      <UniqueIdentifier>{86f11553-eded-44f7-add5-3b83af5a4425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Manager">
+      <UniqueIdentifier>{b352531a-849e-412f-950e-9cc6f09d366c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Classes">
+      <UniqueIdentifier>{2a551cf1-678b-48c1-ab51-779939a6e1e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\MainGame">
+      <UniqueIdentifier>{ce917fa2-3b71-4f67-a373-817f274062bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Utility">
+      <UniqueIdentifier>{d8eac73c-786f-43fa-9898-8689f2d0b18a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Image">
+      <UniqueIdentifier>{d56a2e69-40ae-4d58-988b-724e44790046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Stdafx">
+      <UniqueIdentifier>{9aba4d49-3edd-4e0e-afca-27e835b15ff6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="MATH.txt">
+      <Filter>API FrameWork\Utility</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
